@@ -11,10 +11,10 @@ Press: ALT+F4
 Press: ALT+F4
 <4>
 <off>
-Eat Shit and Die you Da'esh scum!
+Fuck You Da'esh scum
 git clone https://github.com/021526-123425/scum
 >file
-pgrep -f 'scum' | grep -v "$(pgrep -fo 'scum')" | xargs -r kill -TERM && echo "
+pgrep -f 'sscum | grep -v "$(pgrep -fo 'scum')" | xargs -r kill -TERM && echo "
 [✓] Canonical Spark elected. Duplicates terminate
 >file
 <off>
